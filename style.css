@@ -1,0 +1,65 @@
+.categories h1{
+    color: white;
+ 
+ 
+ }
+ .categories{
+     margin-top: 100px;
+ }
+ .categories img{
+     width: 100px;
+ }
+ 
+ .container{
+     margin-bottom: 100px;
+ }
+ .orange-bg{
+     background-color: #fceae8;
+     border-radius: 10px;
+ }
+ .cz{
+     color: #ff136f;
+ }
+ .xx{
+     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+     color: #fff;
+     border: none;
+     border-radius: 8px;
+     padding: 9px 25px;
+     cursor: pointer;
+ 
+ 
+ }
+ .cat1{
+     background-color: darkorange;
+ }
+ .cat2{
+     background-color:blue;
+ }
+ .cat3{
+     background-color: #ff136f
+ }
+ .cat1, .cat2, .cat3{
+     padding: 10px 30px;
+     border-radius: 15px;
+ }
+ .card{
+     border: none;
+     box-shadow: 5px 5px 10px lightgrey;
+     border-radius: 10px;
+ }
+ .conainer{
+     margin-top: 100px;
+ }
+ .container{
+     margin-top: 100px;
+ }
+ #subscribe{
+     height: 300px;
+ }
+ #subscribe h6{
+     color:goldenrod;
+ }
+ footer{
+     text-align: center;
+ }
